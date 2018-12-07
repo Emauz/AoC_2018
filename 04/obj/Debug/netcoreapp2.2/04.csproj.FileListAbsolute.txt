@@ -1,0 +1,11 @@
+/home/eric/Code/aoc/04/obj/Debug/netcoreapp2.2/04.csprojAssemblyReference.cache
+/home/eric/Code/aoc/04/obj/Debug/netcoreapp2.2/04.csproj.CoreCompileInputs.cache
+/home/eric/Code/aoc/04/obj/Debug/netcoreapp2.2/04.AssemblyInfoInputs.cache
+/home/eric/Code/aoc/04/obj/Debug/netcoreapp2.2/04.AssemblyInfo.cs
+/home/eric/Code/aoc/04/bin/Debug/netcoreapp2.2/04.deps.json
+/home/eric/Code/aoc/04/bin/Debug/netcoreapp2.2/04.runtimeconfig.json
+/home/eric/Code/aoc/04/bin/Debug/netcoreapp2.2/04.runtimeconfig.dev.json
+/home/eric/Code/aoc/04/bin/Debug/netcoreapp2.2/04.dll
+/home/eric/Code/aoc/04/bin/Debug/netcoreapp2.2/04.pdb
+/home/eric/Code/aoc/04/obj/Debug/netcoreapp2.2/04.dll
+/home/eric/Code/aoc/04/obj/Debug/netcoreapp2.2/04.pdb
